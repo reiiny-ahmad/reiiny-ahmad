@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Jabri</h1>
-<h3 align="center">AI Engineer | Data Science & Intelligent Systems (CSDI)</h3>
-<h4 align="center">HESTIM × INSA</h4>
+<h3 align="center">AI Engineer | Master (CSDI)</h3>
+<h4 align="center">HESTIM × INSA haut de France</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jabri-ahmed-629905287/" target="_blank">
