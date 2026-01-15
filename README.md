@@ -12,10 +12,9 @@
 
 ## 🚀 About Me
 
-- 🎓 **Master’s student in Data Science & Intelligent Systems (CSDI)**
-- 🤖 **AI Engineer** passionate about Machine Learning, Deep Learning & Data Engineering
+- 🎓 **Master’s student in cyber defence and info security (CSDI)**
+- 🤖 **AI Engineer** passionate about Machine Learning, Deep Learning & Data 
 - 🌍 Interested in **AI for real-world impact** (e-health, smart cities, agriculture, security)
-- 📊 Data enthusiast: from **raw data → insights → intelligent systems**
 - 📚 Lifelong learner & tech explorer
 
 ---
