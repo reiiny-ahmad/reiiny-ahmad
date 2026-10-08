@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Jabri</h1>
+<h1 align="center">Hi 👋 I'm Ahmed Jabri</h1>
 
 <h3 align="center">AI Engineer · Computer Science & Artificial Intelligence · Research-Oriented Engineer</h3>
 
