@@ -14,7 +14,7 @@
 </p>
 
 ```yaml
-role:        AI Engineer · Instructor @ HESTIM
+role:        AI Engineer ·
 background:  State Engineer in CS & AI · MSc Cyber Defense (HESTIM × INSA Hauts-de-France)
 focus:       [LLMs, NLP, Deep Learning, Efficient & Specialized Models]
 mission:     Turning AI research into practical, scalable systems
